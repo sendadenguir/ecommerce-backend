@@ -1,0 +1,189 @@
+[2026-01-15T01:33:18.704Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-15T01:33:18.705Z] 📋 Données reçues: {"name":"dddd","email":"ddd@gmail.com","password":"senda777"}
+[2026-01-15T01:33:18.732Z] ✅ Création de l'utilisateur...
+[2026-01-15T01:33:18.884Z] ✅ Utilisateur créé: 17
+[2026-01-15T01:33:18.892Z] ✅ Token généré
+[2026-01-15T01:33:18.898Z] 📧 Envoi de l'email à: ddd@gmail.com
+[2026-01-15T01:33:20.510Z] 📧 Email envoyé, résultat: {"success":false,"error":"self-signed certificate in certificate chain"}
+[2026-01-15T01:33:20.514Z] 🔵 FIN INSCRIPTION
+[2026-01-15T01:42:45.851Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-15T01:42:45.852Z] 📋 Données reçues: {"name":"siiiiiii","email":"siiiiiiiiii@gmail.com","password":"sendasenda"}
+[2026-01-15T01:42:45.874Z] ✅ Création de l'utilisateur...
+[2026-01-15T01:42:45.997Z] ✅ Utilisateur créé: 18
+[2026-01-15T01:42:46.002Z] ✅ Token généré
+[2026-01-15T01:42:46.004Z] 📧 Envoi de l'email à: siiiiiiiiii@gmail.com
+[2026-01-15T01:42:47.206Z] 📧 Email envoyé, résultat: {"success":true,"messageId":"<97848b48-f93d-96bd-2ad1-4a77c74920f9@ecommerce.com>","previewUrl":"https://ethereal.email/message/aWhFdqNYY6AAl-ABaWhGF7G7FRPhYUh4AAAAAch9GI.MBcLxCRY2ODcPvlU"}
+[2026-01-15T01:42:47.210Z] 🔵 FIN INSCRIPTION
+[2026-01-15T13:05:20.063Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-15T13:05:20.066Z] 📋 Données reçues: {"name":"skander","email":"sendadenguir@gmail.com","password":"senda123"}
+[2026-01-15T13:05:20.132Z] ❌ Email déjà utilisé
+[2026-01-15T13:05:24.946Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-15T13:05:24.949Z] 📋 Données reçues: {"name":"skander","email":"sendadenguir177@gmail.com","password":"senda123"}
+[2026-01-15T13:05:24.969Z] ✅ Création de l'utilisateur...
+[2026-01-15T13:05:25.249Z] ✅ Utilisateur créé: 19
+[2026-01-15T13:05:25.272Z] ✅ Token généré
+[2026-01-15T13:05:25.277Z] 📧 Envoi de l'email à: sendadenguir177@gmail.com
+[2026-01-15T13:05:26.859Z] 📧 Email envoyé, résultat: {"success":true,"messageId":"<d7a48161-ca4a-aee5-c6ad-14df0466c2f7@ecommerce.com>","previewUrl":false}
+[2026-01-15T13:05:26.862Z] 🔵 FIN INSCRIPTION
+[2026-01-15T14:33:10.619Z] 📦 Création de commande - Données reçues: {"items":[{"id":5,"name":"Veste imperméable","price":"79.99","quantity":1,"img":"/images/jacket1.jpg"}],"totalAmount":89.99,"shippingAddress":{"firstName":"denguir","lastName":"senda","email":"sendadenguir@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"8050","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SprbeQxDkpDppQ40MRpp5G9","paymentStatus":"Payé"}
+[2026-01-15T14:33:10.621Z] 💳 Stripe Payment ID reçu: pi_3SprbeQxDkpDppQ40MRpp5G9
+[2026-01-15T14:33:10.622Z] 💰 Payment Status reçu: Payé
+[2026-01-15T14:33:10.669Z] ✅ Commande créée: 13
+[2026-01-15T14:33:10.672Z] 👤 Utilisateur trouvé: sendadenguir@gmail.com
+[2026-01-15T14:33:10.673Z] ❌ Erreur lors de la création de commande: "[object Object]" is not valid JSON
+[2026-01-15T14:42:47.267Z] 📦 Création de commande - Données reçues: {"items":[{"id":3,"name":"T-shirt Adidas","price":"29.99","quantity":1,"img":"/images/tshirt1.jpg"}],"totalAmount":39.989999999999995,"shippingAddress":{"firstName":"denguir","lastName":"senda","email":"sendadenguir@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"8050","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SprkyQxDkpDppQ40u127zKb","paymentStatus":"Payé"}
+[2026-01-15T14:42:47.267Z] 💳 Stripe Payment ID reçu: pi_3SprkyQxDkpDppQ40u127zKb
+[2026-01-15T14:42:47.268Z] 💰 Payment Status reçu: Payé
+[2026-01-15T14:42:47.302Z] ✅ Commande créée: 14
+[2026-01-15T14:42:47.314Z] 👤 Utilisateur trouvé: sendadenguir@gmail.com
+[2026-01-15T14:42:48.915Z] 📧 Email de commande envoyé: true
+[2026-01-15T14:44:29.878Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-15T14:44:29.879Z] 📋 Données reçues: {"name":"skander","email":"megaskander@gmail.com","password":"senda123"}
+[2026-01-15T14:44:29.889Z] ✅ Création de l'utilisateur...
+[2026-01-15T14:44:30.049Z] ✅ Utilisateur créé: 20
+[2026-01-15T14:44:30.053Z] ✅ Token généré
+[2026-01-15T14:44:30.054Z] 📧 Envoi de l'email à: megaskander@gmail.com
+[2026-01-15T14:44:31.349Z] 📧 Email envoyé, résultat: {"success":true,"messageId":"<e15d23fd-aff0-5df5-1b7a-b3b2f2e7c052@ecommerce.com>","previewUrl":false}
+[2026-01-15T14:44:31.351Z] 🔵 FIN INSCRIPTION
+[2026-01-15T14:45:20.054Z] 📦 Création de commande - Données reçues: {"items":[{"id":2,"name":"Chaussures de sport Nike","price":"89.99","quantity":1,"img":"/images/shoes1.jpg"}],"totalAmount":99.99,"shippingAddress":{"firstName":"skander","lastName":"mornagui","email":"megaskander@gmail.com","phone":"96 222 888","address":"mrezga","city":"nabeul","zipCode":"8050","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SprnPQxDkpDppQ41jksR0DZ","paymentStatus":"Payé"}
+[2026-01-15T14:45:20.055Z] 💳 Stripe Payment ID reçu: pi_3SprnPQxDkpDppQ41jksR0DZ
+[2026-01-15T14:45:20.056Z] 💰 Payment Status reçu: Payé
+[2026-01-15T14:45:20.092Z] ✅ Commande créée: 15
+[2026-01-15T14:45:20.097Z] 👤 Utilisateur trouvé: megaskander@gmail.com
+[2026-01-15T14:45:21.534Z] 📧 Email de commande envoyé: true
+[2026-01-15T23:30:33.966Z] 📦 Création de commande - Données reçues: {"items":[{"id":9,"name":"Nike Air Jordan 1","price":"159.99","quantity":3,"img":"/uploads/product-1768517951419-104541409.jpeg"}],"totalAmount":479.97,"shippingAddress":{"firstName":"skander","lastName":"mornagui","email":"admin@example.com","phone":"96 222 888","address":"mrezga","city":"nabeul","zipCode":"8050","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SpzzgQxDkpDppQ41nQjZryB","paymentStatus":"Payé"}
+[2026-01-15T23:30:33.971Z] 💳 Stripe Payment ID reçu: pi_3SpzzgQxDkpDppQ41nQjZryB
+[2026-01-15T23:30:33.972Z] 💰 Payment Status reçu: Payé
+[2026-01-15T23:30:34.041Z] ✅ Commande créée: 16
+[2026-01-15T23:30:34.044Z] 👤 Utilisateur trouvé: admin@example.com
+[2026-01-15T23:30:35.819Z] 📧 Email de commande envoyé: true
+[2026-01-16T14:42:45.354Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-16T14:42:45.362Z] 📋 Données reçues: {"name":"Admin User","email":"admin@example.com","password":"admin123"}
+[2026-01-16T14:42:45.377Z] ✅ Création de l'utilisateur...
+[2026-01-16T14:42:45.470Z] ✅ Utilisateur créé: 1
+[2026-01-16T14:42:45.472Z] ✅ Token généré
+[2026-01-16T14:42:45.472Z] 📧 Envoi de l'email à: admin@example.com
+[2026-01-16T14:42:45.473Z] 📧 Email envoyé, résultat: {"success":false,"error":"Cannot read properties of undefined (reading 'sendMail')"}
+[2026-01-16T14:42:45.475Z] 🔵 FIN INSCRIPTION
+[2026-01-16T14:59:03.138Z] 📦 Création de commande - Données reçues: {"items":[{"id":2,"name":"Nike Air Jordan 1","price":"159.99","quantity":1,"img":"/uploads/product-1768574826638-864098454.jpeg"},{"id":4,"name":"Sac à dos urbain","price":"199.99","quantity":1,"img":"/uploads/product-1768574923662-28113741.jpg"},{"id":3,"name":"T-shirt Adidas","price":"59.00","quantity":1,"img":"/uploads/product-1768574871092-989872447.jpeg"}],"totalAmount":418.98,"shippingAddress":{"firstName":"skander","lastName":"mornagui","email":"admin@example.com","phone":"96 222 888","address":"mrezga","city":"nabeul","zipCode":"8050","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqEUEQxDkpDppQ41e8J1uPv","paymentStatus":"Payé"}
+[2026-01-16T14:59:03.141Z] 💳 Stripe Payment ID reçu: pi_3SqEUEQxDkpDppQ41e8J1uPv
+[2026-01-16T14:59:03.142Z] 💰 Payment Status reçu: Payé
+[2026-01-16T14:59:03.159Z] ✅ Commande créée: 1
+[2026-01-16T14:59:03.161Z] 👤 Utilisateur trouvé: admin@example.com
+[2026-01-16T14:59:03.164Z] 📧 Email de commande envoyé: false
+[2026-01-16T17:01:57.016Z] 📦 Création de commande - Données reçues: {"items":[{"id":2,"name":"Nike Air Jordan 1","price":"159.99","quantity":1,"img":"/uploads/product-1768574826638-864098454.jpeg"}],"totalAmount":159.99,"shippingAddress":{"firstName":"skander","lastName":"mornagui","email":"admin@example.com","phone":"96 222 888","address":"mrezga","city":"nabeul","zipCode":"8050","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqGP5QxDkpDppQ40Hun3iEq","paymentStatus":"Payé"}
+[2026-01-16T17:01:57.022Z] 💳 Stripe Payment ID reçu: pi_3SqGP5QxDkpDppQ40Hun3iEq
+[2026-01-16T17:01:57.024Z] 💰 Payment Status reçu: Payé
+[2026-01-16T17:01:57.040Z] ✅ Commande créée: 2
+[2026-01-16T17:01:57.045Z] 👤 Utilisateur trouvé: admin@example.com
+[2026-01-16T17:01:57.049Z] 📧 Email de commande envoyé: false
+[2026-01-16T17:04:47.430Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-16T17:04:47.438Z] 📋 Données reçues: {"name":"sirine","email":"denguirsirine69@gmail.com","password":"sirine123"}
+[2026-01-16T17:04:47.461Z] ✅ Création de l'utilisateur...
+[2026-01-16T17:04:47.749Z] ✅ Utilisateur créé: 2
+[2026-01-16T17:04:47.753Z] ✅ Token généré
+[2026-01-16T17:04:47.756Z] 📧 Envoi de l'email à: denguirsirine69@gmail.com
+[2026-01-16T17:04:47.761Z] 📧 Email envoyé, résultat: {"success":false,"error":"Cannot read properties of undefined (reading 'sendMail')"}
+[2026-01-16T17:04:47.767Z] 🔵 FIN INSCRIPTION
+[2026-01-16T17:05:55.014Z] 📦 Création de commande - Données reçues: {"items":[{"id":3,"name":"T-shirt Adidas","price":"59.00","quantity":1,"img":"/uploads/product-1768574871092-989872447.jpeg"}],"totalAmount":69,"shippingAddress":{"firstName":"sirine","lastName":"denguir","email":"denguirsirine69@gmail.com","phone":"96 222 888","address":"mrezga","city":"nabeul","zipCode":"8050","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqGSyQxDkpDppQ40TAGBH10","paymentStatus":"Payé"}
+[2026-01-16T17:05:55.019Z] 💳 Stripe Payment ID reçu: pi_3SqGSyQxDkpDppQ40TAGBH10
+[2026-01-16T17:05:55.025Z] 💰 Payment Status reçu: Payé
+[2026-01-16T17:05:55.046Z] ✅ Commande créée: 3
+[2026-01-16T17:05:55.053Z] 👤 Utilisateur trouvé: denguirsirine69@gmail.com
+[2026-01-16T17:05:55.057Z] 📧 Email de commande envoyé: false
+[2026-01-16T17:06:59.179Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-16T17:06:59.184Z] 📋 Données reçues: {"name":"senda","email":"sendadenguir@gmail.com","password":"senda123"}
+[2026-01-16T17:06:59.208Z] ✅ Création de l'utilisateur...
+[2026-01-16T17:06:59.399Z] ✅ Utilisateur créé: 3
+[2026-01-16T17:06:59.402Z] ✅ Token généré
+[2026-01-16T17:06:59.404Z] 📧 Envoi de l'email à: sendadenguir@gmail.com
+[2026-01-16T17:06:59.410Z] 📧 Email envoyé, résultat: {"success":false,"error":"Cannot read properties of undefined (reading 'sendMail')"}
+[2026-01-16T17:06:59.414Z] 🔵 FIN INSCRIPTION
+[2026-01-16T17:07:33.998Z] 📦 Création de commande - Données reçues: {"items":[{"id":4,"name":"Sac à dos urbain","price":"199.99","quantity":2,"img":"/uploads/product-1768574923662-28113741.jpg"}],"totalAmount":399.98,"shippingAddress":{"firstName":"denguir","lastName":"senda","email":"sendadenguir@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"8500","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqGUcQxDkpDppQ412eyfFDY","paymentStatus":"Payé"}
+[2026-01-16T17:07:34.000Z] 💳 Stripe Payment ID reçu: pi_3SqGUcQxDkpDppQ412eyfFDY
+[2026-01-16T17:07:34.002Z] 💰 Payment Status reçu: Payé
+[2026-01-16T17:07:34.017Z] ✅ Commande créée: 4
+[2026-01-16T17:07:34.024Z] 👤 Utilisateur trouvé: sendadenguir@gmail.com
+[2026-01-16T17:07:34.029Z] 📧 Email de commande envoyé: false
+[2026-01-16T18:37:39.997Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-16T18:37:40.004Z] 📋 Données reçues: {"name":"skander mornagui","email":"megaskander@gmail.com","password":"senda123"}
+[2026-01-16T18:37:40.013Z] ✅ Création de l'utilisateur...
+[2026-01-16T18:37:40.192Z] ✅ Utilisateur créé: 4
+[2026-01-16T18:37:40.194Z] ✅ Token généré
+[2026-01-16T18:37:40.195Z] 📧 Envoi de l'email à: megaskander@gmail.com
+[2026-01-16T18:37:40.200Z] 📧 Email envoyé, résultat: {"success":false,"error":"Cannot read properties of undefined (reading 'sendMail')"}
+[2026-01-16T18:37:40.203Z] 🔵 FIN INSCRIPTION
+[2026-01-16T18:38:37.379Z] 📦 Création de commande - Données reçues: {"items":[{"id":3,"name":"T-shirt Adidas","price":"59.00","quantity":3,"img":"/uploads/product-1768574871092-989872447.jpeg"},{"id":2,"name":"Nike Air Jordan 1","price":"159.99","quantity":1,"img":"/uploads/product-1768574826638-864098454.jpeg"},{"id":4,"name":"Sac à dos urbain","price":"199.99","quantity":2,"img":"/uploads/product-1768574923662-28113741.jpg"}],"totalAmount":736.97,"shippingAddress":{"firstName":"skander","lastName":"mornagui","email":"megaskander@gmail.com","phone":"96222888","address":"mrezga","city":"nabeul","zipCode":"8000","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqHujQxDkpDppQ41FoAr0za","paymentStatus":"Payé"}
+[2026-01-16T18:38:37.381Z] 💳 Stripe Payment ID reçu: pi_3SqHujQxDkpDppQ41FoAr0za
+[2026-01-16T18:38:37.382Z] 💰 Payment Status reçu: Payé
+[2026-01-16T18:38:37.407Z] ✅ Commande créée: 5
+[2026-01-16T18:38:37.410Z] 👤 Utilisateur trouvé: megaskander@gmail.com
+[2026-01-16T18:38:37.413Z] 📧 Email de commande envoyé: false
+[2026-01-16T21:15:34.769Z] 📦 Création de commande - Données reçues: {"items":[{"id":1,"name":"T-shirt Nike","price":"29.99","quantity":2,"img":"/uploads/product-1768574765003-801013850.jpeg"},{"id":3,"name":"T-shirt Adidas","price":"59.00","quantity":1,"img":"/uploads/product-1768574871092-989872447.jpeg"}],"totalAmount":118.97999999999999,"shippingAddress":{"firstName":"skander","lastName":"mornagui","email":"megaskander@gmail.com","phone":"96222888","address":"mrezga","city":"nabeul","zipCode":"8000","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqKJeQxDkpDppQ40S05f2fS","paymentStatus":"Payé"}
+[2026-01-16T21:15:34.771Z] 💳 Stripe Payment ID reçu: pi_3SqKJeQxDkpDppQ40S05f2fS
+[2026-01-16T21:15:34.771Z] 💰 Payment Status reçu: Payé
+[2026-01-16T21:15:34.785Z] ✅ Commande créée: 6
+[2026-01-16T21:15:34.789Z] 👤 Utilisateur trouvé: megaskander@gmail.com
+[2026-01-16T21:15:34.792Z] 📧 Email de commande envoyé: false
+[2026-01-16T22:01:23.069Z] 📦 Création de commande - Données reçues: {"items":[{"id":3,"name":"T-shirt Adidas","price":"59.00","quantity":1,"img":"/uploads/product-1768574871092-989872447.jpeg"}],"totalAmount":69,"shippingAddress":{"firstName":"denguir","lastName":"senda","email":"sendadenguir@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"8000","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqL4qQxDkpDppQ40ylbp08l","paymentStatus":"Payé"}
+[2026-01-16T22:01:23.075Z] 💳 Stripe Payment ID reçu: pi_3SqL4qQxDkpDppQ40ylbp08l
+[2026-01-16T22:01:23.077Z] 💰 Payment Status reçu: Payé
+[2026-01-16T22:01:23.130Z] ✅ Commande créée: 7
+[2026-01-16T22:01:23.140Z] 👤 Utilisateur trouvé: sendadenguir@gmail.com
+[2026-01-16T22:01:24.808Z] 📧 Email de commande envoyé: true
+[2026-01-16T22:03:13.309Z] 📦 Création de commande - Données reçues: {"items":[{"id":4,"name":"Sac à dos urbain","price":"199.99","quantity":1,"img":"/uploads/product-1768574923662-28113741.jpg"}],"totalAmount":199.99,"shippingAddress":{"firstName":"skander","lastName":"mornagui","email":"megaskander@gmail.com","phone":"96 222 888","address":"mrezga","city":"nabeul","zipCode":"8000","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqL6iQxDkpDppQ4194cq4Yp","paymentStatus":"Payé"}
+[2026-01-16T22:03:13.312Z] 💳 Stripe Payment ID reçu: pi_3SqL6iQxDkpDppQ4194cq4Yp
+[2026-01-16T22:03:13.315Z] 💰 Payment Status reçu: Payé
+[2026-01-16T22:03:13.332Z] ✅ Commande créée: 8
+[2026-01-16T22:03:13.341Z] 👤 Utilisateur trouvé: megaskander@gmail.com
+[2026-01-16T22:03:14.711Z] 📧 Email de commande envoyé: true
+[2026-01-17T00:51:56.647Z] 📦 Création de commande - Données reçues: {"items":[{"id":1,"name":"T-shirt Nike","price":"29.99","quantity":1,"img":"/uploads/product-1768574765003-801013850.jpeg"},{"id":4,"name":"Sac à dos urbain","price":"199.99","quantity":1,"img":"/uploads/product-1768574923662-28113741.jpg"}],"totalAmount":229.98000000000002,"shippingAddress":{"firstName":"denguir","lastName":"senda","email":"sendadenguir@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"2000","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqNk0QxDkpDppQ41wltPam2","paymentStatus":"Payé"}
+[2026-01-17T00:51:56.653Z] 💳 Stripe Payment ID reçu: pi_3SqNk0QxDkpDppQ41wltPam2
+[2026-01-17T00:51:56.655Z] 💰 Payment Status reçu: Payé
+[2026-01-17T00:51:56.705Z] ✅ Commande créée: 9
+[2026-01-17T00:51:56.710Z] 👤 Utilisateur trouvé: sendadenguir@gmail.com
+[2026-01-17T00:51:58.598Z] 📧 Email de commande envoyé: true
+[2026-01-17T17:11:26.444Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-17T17:11:26.453Z] 📋 Données reçues: {"name":"sirine","email":"sirinedenguir69@gmail.com","password":"sirine123"}
+[2026-01-17T17:11:26.482Z] ✅ Création de l'utilisateur...
+[2026-01-17T17:11:26.783Z] ✅ Utilisateur créé: 5
+[2026-01-17T17:11:26.788Z] ✅ Token généré
+[2026-01-17T17:11:26.789Z] 📧 Envoi de l'email à: sirinedenguir69@gmail.com
+[2026-01-17T17:11:28.755Z] 📧 Email envoyé, résultat: {"success":true,"messageId":"<01caff3b-3403-2a0d-9e81-c24a2809b78a@ecommerce.com>","previewUrl":false}
+[2026-01-17T17:11:28.758Z] 🔵 FIN INSCRIPTION
+[2026-01-17T17:12:25.486Z] 📦 Création de commande - Données reçues: {"items":[{"id":4,"name":"Sac à dos urbain","price":"199.99","quantity":1,"img":"/uploads/product-1768574923662-28113741.jpg"}],"totalAmount":199.99,"shippingAddress":{"firstName":"denguir","lastName":"senda","email":"sirinedenguir69@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"8000","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3Sqd2qQxDkpDppQ41aHf7ipl","paymentStatus":"Payé"}
+[2026-01-17T17:12:25.489Z] 💳 Stripe Payment ID reçu: pi_3Sqd2qQxDkpDppQ41aHf7ipl
+[2026-01-17T17:12:25.494Z] 💰 Payment Status reçu: Payé
+[2026-01-17T17:12:25.537Z] ✅ Commande créée: 10
+[2026-01-17T17:12:25.546Z] 👤 Utilisateur trouvé: sirinedenguir69@gmail.com
+[2026-01-17T17:12:26.812Z] 📧 Email de commande envoyé: true
+[2026-01-17T17:14:12.700Z] 📦 Création de commande - Données reçues: {"items":[{"id":2,"name":"Nike Air Jordan 1","price":"159.99","quantity":1,"img":"/uploads/product-1768574826638-864098454.jpeg"}],"totalAmount":159.99,"shippingAddress":{"firstName":"denguir","lastName":"senda","email":"sendadenguir@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"800","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3Sqd4bQxDkpDppQ41VFw84Ub","paymentStatus":"Payé"}
+[2026-01-17T17:14:12.702Z] 💳 Stripe Payment ID reçu: pi_3Sqd4bQxDkpDppQ41VFw84Ub
+[2026-01-17T17:14:12.704Z] 💰 Payment Status reçu: Payé
+[2026-01-17T17:14:12.738Z] ✅ Commande créée: 11
+[2026-01-17T17:14:12.746Z] 👤 Utilisateur trouvé: sendadenguir@gmail.com
+[2026-01-17T17:14:13.930Z] 📧 Email de commande envoyé: true
+[2026-01-17T17:20:11.407Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-17T17:20:11.413Z] 📋 Données reçues: {"name":"sirine","email":"denguirsirine69@gmail.com","password":"sirine123sirine123"}
+[2026-01-17T17:20:11.437Z] ❌ Email déjà utilisé
+[2026-01-17T17:20:34.298Z] 🔵 DÉBUT INSCRIPTION
+[2026-01-17T17:20:34.300Z] 📋 Données reçues: {"name":"sirine","email":"denguirsirine69@gmail.com","password":"sirine123"}
+[2026-01-17T17:20:34.319Z] ❌ Email déjà utilisé
+[2026-01-17T17:21:12.673Z] 📦 Création de commande - Données reçues: {"items":[{"id":2,"name":"Nike Air Jordan 1","price":"159.99","quantity":1,"img":"/uploads/product-1768574826638-864098454.jpeg"}],"totalAmount":159.99,"shippingAddress":{"firstName":"denguir","lastName":"sirine","email":"denguirsirine69@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"800","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqdBOQxDkpDppQ41O94JYDL","paymentStatus":"Payé"}
+[2026-01-17T17:21:12.675Z] 💳 Stripe Payment ID reçu: pi_3SqdBOQxDkpDppQ41O94JYDL
+[2026-01-17T17:21:12.676Z] 💰 Payment Status reçu: Payé
+[2026-01-17T17:21:12.707Z] ✅ Commande créée: 12
+[2026-01-17T17:21:12.711Z] 👤 Utilisateur trouvé: denguirsirine69@gmail.com
+[2026-01-17T17:21:13.969Z] 📧 Email de commande envoyé: true
+[2026-01-18T03:35:07.559Z] 📦 Création de commande - Données reçues: {"items":[{"id":3,"name":"T-shirt Adidas","price":"59.00","quantity":1,"img":"/uploads/product-1768574871092-989872447.jpeg"},{"id":4,"name":"Sac à dos urbain","price":"199.99","quantity":1,"img":"/uploads/product-1768574923662-28113741.jpg"}],"totalAmount":258.99,"shippingAddress":{"firstName":"denguir","lastName":"sirine","email":"denguirsirine69@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"800","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqmlSQxDkpDppQ41iSpBapX","paymentStatus":"Payé"}
+[2026-01-18T03:35:07.579Z] 💳 Stripe Payment ID reçu: pi_3SqmlSQxDkpDppQ41iSpBapX
+[2026-01-18T03:35:07.581Z] 💰 Payment Status reçu: Payé
+[2026-01-18T03:35:07.680Z] ✅ Commande créée: 13
+[2026-01-18T03:35:07.688Z] 👤 Utilisateur trouvé: denguirsirine69@gmail.com
+[2026-01-18T03:35:09.316Z] 📧 Email de commande envoyé: true
+[2026-01-18T04:32:40.661Z] 📦 Création de commande - Données reçues: {"items":[{"id":3,"name":"T-shirt Adidas","price":"59.00","quantity":1,"img":"/uploads/product-1768574871092-989872447.jpeg"}],"totalAmount":69,"shippingAddress":{"firstName":"denguir","lastName":"senda","email":"denguirsirine69@gmail.com","phone":"94576695","address":"mrezga","city":"nabeul","zipCode":"1000","country":"France"},"paymentMethod":"Stripe","stripePaymentId":"pi_3SqnfBQxDkpDppQ41UTimAjf","paymentStatus":"Payé"}
+[2026-01-18T04:32:40.663Z] 💳 Stripe Payment ID reçu: pi_3SqnfBQxDkpDppQ41UTimAjf
+[2026-01-18T04:32:40.667Z] 💰 Payment Status reçu: Payé
+[2026-01-18T04:32:40.717Z] ✅ Commande créée: 14
+[2026-01-18T04:32:40.721Z] 👤 Utilisateur trouvé: denguirsirine69@gmail.com
+[2026-01-18T04:32:42.260Z] 📧 Email de commande envoyé: true
